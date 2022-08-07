@@ -1,6 +1,6 @@
 # React Budget App
 
-A Budget tracking app created using ReactJS. [Demo using github pages](https://maryll-castelino.github.io/budget-app)
+A Budget tracking app created using ReactJS. [Demo using github pages](https://maryll-castelino.github.io/Budget-app)
 
 To run the project locally :
 
